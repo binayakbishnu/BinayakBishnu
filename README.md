@@ -6,7 +6,10 @@
   - https://www.instagram.com/binayak_bishnu
   - https://github.com/BinayakBishnu
 
-[![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/binayakbishnu/github-readme-stats)
+[![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/binayakbishnu/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=traveapp_project)](https://github.com/binayakbishnu/travelapp_project)
+
 
 <!---
 BinayakBishnu/BinayakBishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
