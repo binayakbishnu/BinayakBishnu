@@ -6,7 +6,7 @@
   - https://www.instagram.com/binayak_bishnu
   - https://github.com/BinayakBishnu
 
-[![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu)](https://github.com/anuraghazra/github-readme-stats)
+[![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BinayakBishnu/BinayakBishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
