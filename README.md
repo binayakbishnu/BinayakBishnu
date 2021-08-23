@@ -10,7 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelapp_project)](https://github.com/binayakbishnu/travelapp_project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_profile&show_owner)](https://github.com/anuraghazra/web_profile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_profile&show_owner=binayakbishnu)](https://github.com/anuraghazra/web_profile)
 
 
 <!---
