@@ -8,9 +8,9 @@
 
 [![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/binayakbishnu/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelapp_project&show_owner=binayakbishnu)](https://github.com/binayakbishnu/travelapp_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelapp_project&show_owner=binayakbishnu)](https://github.com/binayakbishnu/travelapp_project)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_profile&show_owner=binayakbishnu)](https://github.com/binayakbishnu/web_profile)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_profile&show_owner=binayakbishnu)](https://github.com/binayakbishnu/web_profile)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact)](https://github.com/binayakbishnu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact)](https://github.com/binayakbishnu/)
 
 
 <!---
