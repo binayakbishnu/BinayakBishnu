@@ -13,8 +13,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=React_TodoApp)](https://binayakbishnu.github.io/React_TodoApp/)
 
-### Collaborative Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=styxproject&repo=website-next)](https://github.com/BinayakBishnu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact)](https://github.com/binayakbishnu/)
 
