@@ -15,7 +15,7 @@
 
 
 ### Self-learning
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=OWM_DataScience)](https://binayakbishnu.github.io/OWM_DataScience/) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Python_Basics)](https://binayakbishnu.github.io/Python_Basics/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=OMW_DataScience)](https://binayakbishnu.github.io/OMW_DataScience/) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Python_Basics)](https://binayakbishnu.github.io/Python_Basics/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=C-Cplusplus_Basics)](https://binayakbishnu.github.io/C-Cplusplus_Basics/)
 
