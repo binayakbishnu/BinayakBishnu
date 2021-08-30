@@ -14,6 +14,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=React_TodoApp)](https://binayakbishnu.github.io/React_TodoApp/)
 
 
+### Self-learning
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=OWM_DataScience)](https://binayakbishnu.github.io/OWM_DataScience/) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Python_Basics)](https://binayakbishnu.github.io/Python_Basics/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=C-Cplusplus_Basics)](https://binayakbishnu.github.io/C-Cplusplus_Basics/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact)](https://github.com/binayakbishnu/)
 
 
