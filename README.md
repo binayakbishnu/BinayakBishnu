@@ -7,7 +7,7 @@
   - https://www.instagram.com/binayak_bishnu
   - https://github.com/BinayakBishnu
 
-[![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/binayakbishnu/)
+[![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/BinayakBishnu/)
 
 [![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayakbishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/binayakbishnu/)
 
@@ -22,7 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=C-Cplusplus_Basics)](https://github.com/binayakbishnu/C-Cplusplus_Basics/) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Coding_files)](https://github.com/binayakbishnu/Coding_files/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact)](https://github.com/binayakbishnu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact)](https://github.com/BinayakBishnu/)
 
 
 <!---
