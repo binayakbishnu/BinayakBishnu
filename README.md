@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BinayakBishnu
+- 👋 Hi, I’m Binayak Bishnu
 - 👀 I’m interested in coding, painting and music
 - 🌱 I’m currently learning Python, C, C++, Frontend Webdev with HTML,CSS,JS
 - 🌱 I'm also into mobile app development
