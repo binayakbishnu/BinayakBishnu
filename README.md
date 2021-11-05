@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Binayak Bishnu
-- 👀 I’m interested in coding, painting and music
-- 🌱 I’m currently learning Python, C, C++, Frontend Webdev with HTML,CSS,JS
-- 🌱 I'm also into mobile app development
+- 🎯 I am an aspiring Data Analyst with a long-term goal of Data Science
+- 🧑‍💻 Python, C, C++, HTML, CSS, JS
+- ⚙️ Git, Tableau, SQL, R
+- 🌱 I am also into mobile app development, UI/UX and Graphic Designing
+- 👀 My other interestes are painting and music
 - 📫 How to reach me 
   - https://www.linkedin.com/in/binayakbishnu
   - https://www.instagram.com/binayak_bishnu
