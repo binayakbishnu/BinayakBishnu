@@ -11,7 +11,7 @@
 
 [![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/BinayakBishnu/)
 
-[![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayakbishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/binayakbishnu/)
+[![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/BinayakBishnu/)
 
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelmigo_app)](https://github.com/binayakbishnu/travelmigo_app) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_portfolio)](https://binayakbishnu.github.io/Web_Portfolio/)
