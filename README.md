@@ -13,6 +13,8 @@
 
 <!-- [![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/BinayakBishnu/) -->
 
+[![Binayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&theme=react-dark)](https://github.com/BinayakBishnu)
+
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelmigo_app)](https://github.com/binayakbishnu/travelmigo_app) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_portfolio)](https://binayakbishnu.github.io/Web_Portfolio/)
 
