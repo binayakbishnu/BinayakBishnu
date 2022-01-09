@@ -10,7 +10,8 @@
   - https://github.com/BinayakBishnu
 
 [![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark)](https://github.com/BinayakBishnu/)
-[![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binayak_bishnu&v=2)](https://github.com/BinayakBishnu)
+<!-- [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binayak_bishnu&v=2)](https://github.com/BinayakBishnu) -->
+/
 [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=binayak_bishnu/bf6ce576-34b5-4da7-9da1-499b30530af3)](https://github.com/BinayakBishnu)
 
 <!-- [![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/BinayakBishnu/) -->
