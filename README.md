@@ -13,7 +13,6 @@
 [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binayak_bishnu)](https://github.com/BinayakBishnu)
 
 <!-- [![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/BinayakBishnu/) -->
-
 <!-- [![Binayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&theme=react-dark)](https://github.com/BinayakBishnu) -->
 
 ### Projects
