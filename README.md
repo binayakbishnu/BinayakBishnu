@@ -27,7 +27,7 @@
 <!-- [![Binayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&theme=react-dark)](https://github.com/BinayakBishnu) -->
 
 <!--  -->
-| <font size="4">Projects</font> |  |
+| | |
 | --- | --- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelmigo_app)](https://github.com/binayakbishnu/travelmigo_app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_portfolio)](https://binayakbishnu.github.io/Web_Portfolio/) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=React_TodoApp)](https://binayakbishnu.github.io/React_TodoApp/) |
