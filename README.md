@@ -9,9 +9,9 @@
   - https://www.instagram.com/binayak_bishnu
   - https://github.com/BinayakBishnu -->
 
-| <font size="5">Personal Info<font> | <font size="5">Reading Stats</font> (<a href="https://daily.dev/">daily.dev</a>) |
+| <font size="5">Personal Info<font> | <font size="5">Reading Stats</font> (<a href="https://app.daily.dev/binayak_bishnu">daily.dev</a>) |
 | --- | --- |
-| - 👋 Hi, I’m Binayak Bishnu<br />- 🎯 An aspiring **Data Analyst**<br />- 🎯 Long-term goal of **Data Science**<br />- 🧑‍💻 `Python` `SQL` `R`<br />- 🧑‍💻 `C`, `C++`<br />- 🧑‍💻 `HTML` `CSS` `JS`<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- `Bootstrap`<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- `Reactjs`  `Nodejs`<br />- ⚙️ `Git` `Tableau` `MongoDB`<br />- 🌱 `UI/UX`<br />- 🌱 `painting` and `music`<br /><br />Reach me:<br />https://www.linkedin.com/in/binayakbishnu<br />https://www.instagram.com/binayak_bishnu<br />https://github.com/BinayakBishnu | <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BinayakBishnu/BinayakBishnu/blob/master/devcard.svg" width="300" alt="Binayak's Dev Card"/></a> |
+| - 👋 Hi, I’m Binayak Bishnu<br />- 🎯 An aspiring **Data Analyst**<br />- 🎯 Long-term goal of **Data Science**<br />- 🧑‍💻 `Python` `SQL` `R`<br />- 🧑‍💻 `C`, `C++`<br />- 🧑‍💻 `HTML` `CSS` `JS`<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- `Bootstrap`<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- `Reactjs`  `Nodejs`<br />- ⚙️ `Git` `Tableau` `MongoDB`<br />- 🌱 `UI/UX`<br />- 🌱 `painting` and `music`<br /><br />Reach me:<br />https://www.linkedin.com/in/binayakbishnu<br />https://www.instagram.com/binayak_bishnu<br />https://github.com/BinayakBishnu | <a href="https://app.daily.dev/binayak_bishnu"><img src="https://github.com/BinayakBishnu/BinayakBishnu/blob/master/devcard.svg" width="300" alt="Binayak's Dev Card"/></a> |
 
 <!--  -->
 [![Binayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=binayakbishnu&count_private=true&show_icons=true&theme=dark&custom_title=My%20GitHub%20Stats)](https://github.com/BinayakBishnu/)
