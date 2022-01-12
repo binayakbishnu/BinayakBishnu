@@ -14,7 +14,7 @@
 [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=binayak_bishnu/bf6ce576-34b5-4da7-9da1-499b30530af3)](https://github.com/BinayakBishnu)
 
 <!-- <a href="https://app.daily.dev/binayak_bishnu"><img src="https://api.daily.dev/devcards/e692f68d8d3445acbdc0e8297e12b35d.png?r=am3" width="400" alt="Binayak Bishnu's Dev Card"/></a> -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BinayakBishnu/BinayakBishnu/blob/master/devcard.svg" width="400" alt="Binayak's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BinayakBishnu/BinayakBishnu/blob/master/devcard.svg" width="200" alt="Binayak's Dev Card"/></a>
 
 <!-- [![Binayak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&line=00E6C7&bg_color=27292E&color=FFFFFF&point=FFFFFF)](https://github.com/BinayakBishnu/) -->
 <!-- [![Binayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&theme=react-dark)](https://github.com/BinayakBishnu) -->
