@@ -27,21 +27,21 @@
 <!-- [![Binayak's github activity graph](https://activity-graph.herokuapp.com/graph?username=BinayakBishnu&theme=react-dark)](https://github.com/BinayakBishnu) -->
 
 <!--  -->
-<font size="4" style="font-weight:bold">Projects</font>
+## **Projects**
 | | |
 | --- | --- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=travelmigo_app)](https://github.com/binayakbishnu/travelmigo_app) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=web_portfolio)](https://binayakbishnu.github.io/Web_Portfolio/) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=React_TodoApp)](https://binayakbishnu.github.io/React_TodoApp/) |
 
 <!--  -->
-<font size="4" style="font-weight:bold">Self-Learning</font>
+## **Self-Learning**
 | | |
 | --- | --- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=OMW_DataScience)](https://github.com/binayakbishnu/OMW_DataScience/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Python_Basics)](https://github.com/binayakbishnu/Python_Basics/) </div> |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=C-Cplusplus_Basics)](https://github.com/binayakbishnu/C-Cplusplus_Basics/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Coding_files)](https://github.com/binayakbishnu/Coding_files/) |
 
 <!--  -->
-<font size="4" style="font-weight:bold">Languages Stats</font>
+## **Language Stats**
 | | |
 | --- | --- |
 | [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=binayak_bishnu/bf6ce576-34b5-4da7-9da1-499b30530af3&custom_title=My%20Wakatime%20Stats&layout=compact&hide=TypeScript&langs_count=4)](https://github.com/BinayakBishnu) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact&card_width=250&custom_title=Common%20Languages%20in%20repos)](https://github.com/BinayakBishnu/)
