@@ -41,10 +41,10 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=C-Cplusplus_Basics)](https://github.com/binayakbishnu/C-Cplusplus_Basics/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Coding_files)](https://github.com/binayakbishnu/Coding_files/) |
 
 <!--  -->
-## **Language Stats**
-| | |
-| --- | --- |
-| [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=binayak_bishnu/bf6ce576-34b5-4da7-9da1-499b30530af3&custom_title=My%20Wakatime%20Stats&layout=compact&hide=TypeScript&langs_count=4)](https://github.com/BinayakBishnu) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact&card_width=250&custom_title=Common%20Languages%20in%20repos)](https://github.com/BinayakBishnu/)
+<!-- ## **Language Stats** -->
+<!-- | | | -->
+<!-- | --- | --- | -->
+<!-- | [![Binayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=binayak_bishnu/bf6ce576-34b5-4da7-9da1-499b30530af3&custom_title=My%20Wakatime%20Stats&layout=compact&hide=TypeScript&langs_count=4)](https://github.com/BinayakBishnu) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayakbishnu&layout=compact&card_width=250&custom_title=Common%20Languages%20in%20repos)](https://github.com/BinayakBishnu/) -->
 
 <!-- | <font size="4">Reading Stats</font> |  |
 | --- | --- |
