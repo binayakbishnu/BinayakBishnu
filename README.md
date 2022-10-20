@@ -37,7 +37,8 @@
 ## **Self-Learning**
 | | |
 | --- | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=OMW_DataScience)](https://github.com/binayakbishnu/OMW_DataScience/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=EDA-Projects)](https://github.com/binayakbishnu/EDA-Projects) |  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Python_Basics)](https://github.com/binayakbishnu/Python_Basics/) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=OMW_DataScience)](https://github.com/binayakbishnu/OMW_DataScience/) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=EDA-Projects)](https://github.com/binayakbishnu/EDA-Projects) |
+  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=Python_Basics)](https://github.com/binayakbishnu/Python_Basics/) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=binayakbishnu&repo=C-Cplusplus_Basics)](https://github.com/binayakbishnu/C-Cplusplus_Basics/) | 
 
 <!--  -->
